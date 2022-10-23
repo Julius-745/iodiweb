@@ -54,7 +54,6 @@ function Navbar() {
                 duration={1000}
                 to="headerbg"
               >
-                Home
               </Link>
             </li>
             <li>
@@ -66,7 +65,6 @@ function Navbar() {
                 smooth={true}
                 duration={1000}
               >
-                Kejuaraan
               </Link>
             </li>
             <li>
@@ -78,7 +76,6 @@ function Navbar() {
                 duration={1000}
                 activeClass="active"
               >
-                Tentang Kami
               </Link>
             </li>
           </ul>
