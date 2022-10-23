@@ -7,35 +7,57 @@ function Services() {
             <div className="col-md-12">
                 <div className="row">
                     <div className="col-md-4 mb-2">
-                        <Card title="Web Development" img="card1.png" text="Morbi eget neque risus. Duis erat quam, porta quis enim id, venenatis blandit nunc. " />
+                        <Card title="Waltz" img="card1.png" text="Morbi eget neque risus. Duis erat quam, porta quis enim id, venenatis blandit nunc. " />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="E-Commerce Services" img="card2.png" text="Maecenas dictum efficitur felis non gravida. Vestibulum vitae ante luctus, accumsan mi vitae, pretium metus." />
+                    <Card title="Slow Fox" img="card2.png" text="Maecenas dictum efficitur felis non gravida. Vestibulum vitae ante luctus, accumsan mi vitae, pretium metus." />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="Cyber Security" img="card3.png" text="Phasellus suscipit nibh at nisi finibus vestibulum sit amet vitae massa. Suspendisse non est eget elit pulvinar consectetur nec non sapien." />
-                    </div>
-                </div>
-                <div className="row">
-                    <div className="col-md-4 mb-2">
-                        <Card title="Web Development" img="card1.png" text="Morbi eget neque risus. Duis erat quam, porta quis enim id, venenatis blandit nunc. " />
-                    </div>
-                    <div className="col-md-4 mb-2">
-                    <Card title="E-Commerce Services" img="card2.png" text="Maecenas dictum efficitur felis non gravida. Vestibulum vitae ante luctus, accumsan mi vitae, pretium metus." />
-                    </div>
-                    <div className="col-md-4 mb-2">
-                    <Card title="Cyber Security" img="card3.png" text="Phasellus suscipit nibh at nisi finibus vestibulum sit amet vitae massa. Suspendisse non est eget elit pulvinar consectetur nec non sapien." />
+                    <Card title="Tango" img="card3.png" text="Phasellus suscipit nibh at nisi finibus vestibulum sit amet vitae massa. Suspendisse non est eget elit pulvinar consectetur nec non sapien." />
                     </div>
                 </div>
                 <div className="row">
                     <div className="col-md-4 mb-2">
-                        <Card title="Web Development" img="card1.png" text="Morbi eget neque risus. Duis erat quam, porta quis enim id, venenatis blandit nunc. " />
+                        <Card title="Quick Step" img="card1.png" text="Morbi eget neque risus. Duis erat quam, porta quis enim id, venenatis blandit nunc. " />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="E-Commerce Services" img="card2.png" text="Maecenas dictum efficitur felis non gravida. Vestibulum vitae ante luctus, accumsan mi vitae, pretium metus." />
+                    <Card title="Viennese Waltz" img="card2.png" text="Maecenas dictum efficitur felis non gravida. Vestibulum vitae ante luctus, accumsan mi vitae, pretium metus." />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="Cyber Security" img="card3.png" text="Phasellus suscipit nibh at nisi finibus vestibulum sit amet vitae massa. Suspendisse non est eget elit pulvinar consectetur nec non sapien." />
+                    <Card title="Cha Cha Cha" img="card3.png" text="Phasellus suscipit nibh at nisi finibus vestibulum sit amet vitae massa. Suspendisse non est eget elit pulvinar consectetur nec non sapien." />
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="col-md-4 mb-2">
+                        <Card title="Jive" img="card1.png" text="Morbi eget neque risus. Duis erat quam, porta quis enim id, venenatis blandit nunc. " />
+                    </div>
+                    <div className="col-md-4 mb-2">
+                    <Card title="Paso Doble" img="card2.png" text="Maecenas dictum efficitur felis non gravida. Vestibulum vitae ante luctus, accumsan mi vitae, pretium metus." />
+                    </div>
+                    <div className="col-md-4 mb-2">
+                    <Card title="Rumba Dance" img="card3.png" text="Phasellus suscipit nibh at nisi finibus vestibulum sit amet vitae massa. Suspendisse non est eget elit pulvinar consectetur nec non sapien." />
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="col-md-4 mb-2">
+                        <Card title="Samba" img="card1.png" text="Morbi eget neque risus. Duis erat quam, porta quis enim id, venenatis blandit nunc. " />
+                    </div>
+                    <div className="col-md-4 mb-2">
+                    <Card title="Traditional Dance" img="card2.png" text="Maecenas dictum efficitur felis non gravida. Vestibulum vitae ante luctus, accumsan mi vitae, pretium metus." />
+                    </div>
+                    <div className="col-md-4 mb-2">
+                    <Card title="Synchronize Dance" img="card3.png" text="Phasellus suscipit nibh at nisi finibus vestibulum sit amet vitae massa. Suspendisse non est eget elit pulvinar consectetur nec non sapien." />
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="col-md-4 mb-2">
+                        <Card title="Line Dance" img="card1.png" text="Morbi eget neque risus. Duis erat quam, porta quis enim id, venenatis blandit nunc. " />
+                    </div>
+                    <div className="col-md-4 mb-2">
+                    <Card title="Breakdance" img="card2.png" text="Maecenas dictum efficitur felis non gravida. Vestibulum vitae ante luctus, accumsan mi vitae, pretium metus." />
+                    </div>
+                    <div className="col-md-4 mb-2">
+                    <Card title="Hip Hop Dance" img="card2.png" text="Maecenas dictum efficitur felis non gravida. Vestibulum vitae ante luctus, accumsan mi vitae, pretium metus." />
                     </div>
                 </div>
             </div>
