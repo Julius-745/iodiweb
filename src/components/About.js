@@ -11,9 +11,7 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
             <p className="main-p">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
-              quam purus, ullamcorper id risus eu, consectetur consectetur
-              purus. Etiam sagittis in eros ac sollicitudin.
+              IODI atau kepanjangan dari Ikatan Olahraga Dance Sport Indonesia merupakan cabang olahraga baru didalam KONI yang menaungi olahraga dance sport di Indonesia. IODI sendiri merupakan organisasi yang berada dibawah naungan KONI yang bertujuan untuk mengembangkan dan mengembangkan olahraga dance sport di Indonesia. IODI sendiri merupakan organisasi yang berada dibawah naungan KONI yang bertujuan untuk mengembangkan dan mengembangkan olahraga dance sport di Indonesia.
             </p>
           </div>
         </div>

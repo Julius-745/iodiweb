@@ -12,7 +12,7 @@ function Footer() {
               <div className="col-md-3">
                 <h1 className="logo">IODI Probolinggo</h1>
                 <p className="footer-text">
-                  Lorem ipsum Here are thriteen health benefits of apples Lorem
+                  IODI Dasyat Luar Biasa
         
                 </p>
               </div>
@@ -58,13 +58,10 @@ function Footer() {
                 <p className="footer-title">Social Media</p>
                 <ul>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://github.com/darkleas" > Github</a>
+                    <a target="_blank" rel="noreferrer" href="https://instagram.com/iodikotaprobolinggo?igshid=YmMyMTA2M2Y=">Instagram</a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://twitter.com/burhankocadag0" > Twitter</a>
-                  </li>
-                  <li>
-                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/burhan-kocada%C4%9F-49a3331a5/"> Linkedin</a>
+                    <a target="_blank" rel="noreferrer" href="https://www.facebook.com/profile.php?id=100086525762339">Facebook</a>
                   </li>
                 </ul>
               </div>
